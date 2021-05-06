@@ -33,7 +33,7 @@
     "pm2": "^4.2.1",
     "pug": "^2.0.4",
     "redlock": "^4.1.0",
-    "sanitize-html": "^1.20.1",
+    "sanitize-html": "^2.3.2",
     "saslprep": "^1.0.3",
     "socket.io": "^2.3.0",
     "socket.io-redis": "^5.2.0"
